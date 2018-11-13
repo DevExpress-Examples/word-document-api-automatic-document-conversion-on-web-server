@@ -49,7 +49,7 @@ Namespace DocumentServerExample
             server.LoadDocument(fsIn,sourceFormat)
             Dim fsOut As FileStream = File.Open(outFileName, FileMode.Create)
 
-            If destFormat = DocumentFormat.Rtf Then
+            If destFormat Is DocumentFormat.Rtf Then
                 server.Options.Export.Rtf.Compatibility.DuplicateObjectAsMetafile = False
             End If
 
