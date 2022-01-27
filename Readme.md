@@ -10,7 +10,7 @@ This example illustrates how to use the [RichEditDocumentServer](https://documen
 
 The **RichEditDocumentServer** is a non-visual equivalent of the RichEditControl for working with documents via API. Its advantages become evident in a simple application that automatically loads MS Word documents into a specified folder and its subfolders and saves them in Rich Text format. When a document is loaded, you can modify it in many ways, including mail merge.
 
-Review the [How to use document variable (DOCVARIABLE) fields](https://github.com/DevExpress-Examples/word-document-api-use-docvariable-fields) example for more information.
+Review the [Word Processing Document API - How to Use DOCVARIABLE Fields in a Document](https://github.com/DevExpress-Examples/word-document-api-use-docvariable-fields) example for more information.
 
 <!-- default file list -->
 ## Files to Look At
