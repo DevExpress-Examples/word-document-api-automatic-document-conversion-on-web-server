@@ -6,15 +6,15 @@
 
 # Word Processing Document API - Convert a Word Document to RTF Format Automatically
 
-This example illustrates how to use the [RichEditDocumentServer](https://documentation.devexpress.com/CoreLibraries/DevExpress.XtraRichEdit.RichEditDocumentServer.class) to convert files from Word 2007 format to RTF format.
+This example illustrates how to use the [RichEditDocumentServer](https://docs.devexpress.com/OfficeFileApi/DevExpress.XtraRichEdit.RichEditDocumentServer) to convert files from Word 2007 format to RTF format.
 
-The **RichEditDocumentServer** is a non-visual equivalent of the RichEditControl for working with documents via API. Its advantages become evident in a simple application that automatically loads MS Word documents into a specified folder and its subfolders and saves them in Rich Text format. When a document is loaded, you can modify it in many ways, including mail merge.
+The **Word Processing Document API** is a non-visual equivalent of the RichEditControl for working with documents via API. Its advantages become evident in a simple application that automatically loads MS Word documents into a specified folder and its subfolders and saves them in Rich Text format. When a document is loaded, you can modify it in many ways, including mail merge.
 
-Review the [Word Processing Document API - How to Use DOCVARIABLE Fields in a Document](https://github.com/DevExpress-Examples/word-document-api-use-docvariable-fields) example for more information.
-
-<!-- default file list -->
 ## Files to Look At
 
 - [Form1.cs](./CS/DocumentServerExample/Form1.cs) (VB: [Form1.vb](./VB/DocumentServerExample/Form1.vb))
 - [Program.cs](./CS/DocumentServerExample/Program.cs) (VB: [Program.vb](./VB/DocumentServerExample/Program.vb))
-<!-- default file list end -->
+
+# More Examples
+
+[Word Processing Document API - How to Use DOCVARIABLE Fields in a Document](https://github.com/DevExpress-Examples/word-document-api-use-docvariable-fields)
