@@ -11,6 +11,9 @@ This example illustrates how to use the [RichEditDocumentServer](https://docs.de
 
 The **Word Processing Document API** is a non-visual equivalent of the RichEditControl for working with documents via API. Its advantages become evident in a simple application that automatically loads MS Word documents into a specified folder and its subfolders and saves them in Rich Text format. When a document is loaded, you can modify it in many ways, including mail merge.
 
+> [!Important]  
+> The Universal Subscription or an additional Office File API Subscription is required to use this example in production code. For pricing information, please refer to the [DevExpress Subscription](https://www.devexpress.com/Subscriptions/) page. 
+
 ## Files to Look At
 
 - [Form1.cs](./CS/DocumentServerExample/Form1.cs) (VB: [Form1.vb](./VB/DocumentServerExample/Form1.vb))
