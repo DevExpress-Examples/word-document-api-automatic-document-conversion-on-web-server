@@ -16,8 +16,7 @@ The **Word Processing Document API** is a non-visual equivalent of the RichEditC
 
 ## Files to Look At
 
-- [Form1.cs](./CS/DocumentServerExample/Form1.cs) (VB: [Form1.vb](./VB/DocumentServerExample/Form1.vb))
-- [Program.cs](./CS/DocumentServerExample/Program.cs) (VB: [Program.vb](./VB/DocumentServerExample/Program.vb))
+- [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
 
 # More Examples
 

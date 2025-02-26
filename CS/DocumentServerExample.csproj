@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+      <TargetFramework>net8.0-windows</TargetFramework>
+      <OutputType>Exe</OutputType>
+	    <Nullable>enable</Nullable>
+    </PropertyGroup>
+    <ItemGroup>
+      <None Remove="Grimm.docx" />
+    </ItemGroup>
+    <ItemGroup>
+      <Content Include="Grimm.docx">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="DevExpress.Document.Processor" Version="24.2.*" />
+        <PackageReference Include="System.Diagnostics.PerformanceCounter" Version="9.0.2" />
+    </ItemGroup>
+</Project>
