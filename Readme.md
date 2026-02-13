@@ -22,7 +22,7 @@ The **Word Processing Document API** is a non-visual equivalent of the RichEditC
 
 [Word Processing Document API - How to Use DOCVARIABLE Fields in a Document](https://github.com/DevExpress-Examples/word-document-api-use-docvariable-fields)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-document-api-automatic-document-conversion-on-web-server&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=word-document-api-automatic-document-conversion-on-web-server&~~~was_helpful=no)
 
